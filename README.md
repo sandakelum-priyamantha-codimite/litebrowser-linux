@@ -36,7 +36,7 @@ brew install gtkmm4 gtk4
 Clone this repository and build the `litebrowser` executable:
 
 ```
-git clone --recursive https://github.com/litehtml/litebrowser-linux.git
+git clone --recursive git@github.com:sandakelum-priyamantha-codimite/litebrowser-linux.git
 cd litebrowser-linux
 mkdir build
 cd build
